@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahendra Jahel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://static.vecteezy.com/system/resources/thumbnails/007/814/266/small/programmer-and-engineering-development-coding-web-development-website-design-developer-flat-vector.jpg"
+<img align="right" width=400 alt="coding" src="https://codequotient.com/blog/wp-content/uploads/2022/05/10-Python-Coding-Questions-To-Practice-and-Enhance-Logical-Thinking.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrajahel22&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrajahel22" /> </p>
 
 - 💬 Ask me about **Web Development, MERN**
