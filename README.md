@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahendra Jahel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" width=400 alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20210801%2Foriginal%2Fpngtree-programmer-coding-in-front-of-laptop-png-image_6587161.jpg&tbnid=iZkm89g8ngDoVM&vet=10CGkQMyiUAWoXChMI8Km6oMnb_gIVAAAAAB0AAAAAEAM..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fprogrammer&docid=CGjC8y7ZYn2HPM&w=1200&h=1200&q=coding%20pics&hl=en-GB&ved=0CGkQMyiUAWoXChMI8Km6oMnb_gIVAAAAAB0AAAAAEAM"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrajahel22&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrajahel22" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Web Development, MERN**
 
 - 📫 How to reach me **mahendrajahel@gmail.com**
 
